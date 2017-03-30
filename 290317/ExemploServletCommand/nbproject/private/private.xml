@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/iapereira/NetBeansProjects/ExemploServlet/src/java/command/Command.java</file>
+            <file>file:/home/iapereira/NetBeansProjects/ExemploServlet/web/index.jsp</file>
+            <file>file:/home/iapereira/NetBeansProjects/ExemploServlet/src/java/command/garota/GarotaAdicionarCommand.java</file>
+            <file>file:/home/iapereira/NetBeansProjects/ExemploServlet/src/java/servlet/Servlet.java</file>
+            <file>file:/home/iapereira/NetBeansProjects/ExemploServlet/src/java/command/garota/GarotaAlterarCommand.java</file>
+            <file>file:/home/iapereira/NetBeansProjects/ExemploServlet/web/listar.jsp</file>
+            <file>file:/home/iapereira/NetBeansProjects/ExemploServlet/src/java/command/garota/GarotaExcluirCommand.java</file>
+            <file>file:/home/iapereira/NetBeansProjects/ExemploServlet/web/tela_alterar.jsp</file>
+            <file>file:/home/iapereira/NetBeansProjects/ExemploServlet/src/java/command/garota/GarotaListarCommand.java</file>
+        </group>
+    </open-files>
+</project-private>
