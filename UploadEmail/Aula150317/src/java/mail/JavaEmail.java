@@ -16,7 +16,7 @@ public class JavaEmail {
     String emailHost = "smtp.gmail.com";
     String emailPort = "587";// gmail's smtp port
     String fromUser = "tadsifrsrg@gmail.com";// your gmail id
-    String fromUserEmailPassword = "tadsifrsrgtadsifrsrg";
+    String fromUserEmailPassword = "??";
     String[] toEmails = {"igor.pereira@riogrande.ifrs.edu.br"};
 
     public void setMailServerProperties() {
